@@ -128,9 +128,9 @@
             </Button>
          </children>
       </GridPane>
-      <TextField id="textfield" fx:id="textfield1" alignment="BOTTOM_RIGHT" layoutY="-4.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="158.0" prefWidth="433.0" promptText="0" styleClass="Textfield" stylesheets="@fxml.css" text="0">
+      <TextField id="textfield" fx:id="textfield1" alignment="BOTTOM_RIGHT" editable="false" layoutY="-4.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="158.0" prefWidth="433.0" promptText="0" style="-fx-background-color: white;" styleClass="Textfield" stylesheets="@fxml.css" text="0">
          <font>
-            <Font name="Arial Black" size="48.0" />
+            <Font name="Script MT Bold" size="48.0" />
          </font>
       </TextField>
    </children>
