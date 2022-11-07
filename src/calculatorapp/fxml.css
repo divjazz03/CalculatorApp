@@ -1,0 +1,16 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.root{
+
+    -fx-background-color: black;
+}
+.Button{
+    -fx-background-color: black;
+    
+}
+.Textfield{
+    -fx-background-color: black;
+    
+}
